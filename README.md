@@ -34,8 +34,7 @@
 
 ---
 
-## 4. Enlaces a Videos Explicativos (YouTube)
+## 4. Enlace a Video (YouTube)
+https://youtu.be/bmmF2D1Qn6c
 
-* **Inciso 1 (Análisis de Timing FF a FF):** [Pegar enlace de YouTube aquí]
-* **Inciso 2 (HDL SystemVerilog y Simulación):** [Pegar enlace de YouTube aquí]
-* **Inciso 3 (Flujo de Compilación en Vivado):** [Pegar enlace de YouTube aquí]
+
